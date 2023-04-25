@@ -1,0 +1,36 @@
+1. wap to javascript class and object method use program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following
+
+
+Percentage >= 90% : Grade A
+Percentage >= 80% : Grade B
+Percentage >= 70% : Grade C
+Percentage >= 60% : Grade D 
+Percentage >= 50% : Grade E
+Percentage >= 40% : Grade F
+
+
+2. write a javascript program to below data print html table using constructor method.
+let data = [
+                {
+                    name : "jay",
+                    email : "jay@gmail.com",
+                    phone : "12345",
+                },
+                {
+                    name : "ajay",
+                    email : "ajay@gmail.com",
+                    phone : "12345",
+                },
+                {
+                    name : "vijay",
+                    email : "vijay@gmail.com",
+                    phone : "12345",
+                },
+                {
+                    name : "ashish",
+                    email : "ashish@gmail.com",
+                    phone : "12345",
+                },
+            ];
+
+3. write a javascript program to use class and object print multiplication table of any number using do while loop.
